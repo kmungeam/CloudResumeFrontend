@@ -5,17 +5,28 @@ body {
     margin-top: 0px;
     margin-bottom: 0px;
     text-align: center;
+    padding: 30px;
 }
 
-.info {
+.job {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     text-align: justify;
+    background-color: lightgray;
+    padding: 30px;
+}
+
+.project {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .header {
-    background-color: #ff3150;
+    background-color:powderblue;
+    padding: 15px;
 }
